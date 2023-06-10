@@ -27,9 +27,15 @@
 
 # Sprint 1
 
-- **Sprint Notları**: 
+- **Sprint Notları**: Takım olarak proje yönetiminde "Notion" kullanımı kararlaştırılmıştır.
+
+- **Sprint Review**: 
+Alınan kararlar: Roller belirlenmiş ve görevleri açıklanmıştır. Oyunun Platformer türünde geliştirilmesine karar verilmiştir. Mitolojik bir tema çevresinde hikaye oluşturulmasına ve karakterin tanrılardan olmasında karar kılınmıştır.
 
 - **Daily Scrum**: Daily Scrum toplantılarının Discord ve Whatsapp üzerinden yapılmasına karar verilmiştir. Sprint boyunca her gün ilgili uygulamalarla Daily Scrum yapılmıştır.
+
+- **Sprint Review katılımcıları:** 
+Vedat Erol, Zeynep Kalaycıoğlu, Görkem Gümüşcan, Nilüfer Sultan Canıberk, Ömer Faruk Günay
 
 
 ## Product Backlog URL
