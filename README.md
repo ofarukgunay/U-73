@@ -30,7 +30,7 @@
 - **Sprint Notları**: Takım olarak proje yönetiminde "Notion" kullanımı kararlaştırılmıştır.
 
 - **Sprint Review**: 
-Alınan kararlar: Roller belirlenmiş ve görevleri açıklanmıştır. Oyunun Platformer türünde geliştirilmesine karar verilmiştir. Mitolojik bir tema çevresinde hikaye oluşturulmasına ve karakterin tanrılardan olmasında karar kılınmıştır.
+Alınan kararlar: Roller belirlenmiş ve görevleri açıklanmıştır. Oyunun Platformer türünde geliştirilmesine karar verilmiştir. Mitolojik bir tema çevresinde hikaye oluşturulmasına ve karakterin tanrılardan oluşmasında karar kılınmıştır.
 
 - **Daily Scrum**: Daily Scrum toplantılarının Discord ve Whatsapp üzerinden yapılmasına karar verilmiştir. Sprint boyunca her gün ilgili uygulamalarla Daily Scrum yapılmıştır.
 
