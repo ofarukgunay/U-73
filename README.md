@@ -27,15 +27,23 @@
 
 # Sprint 1
 
-- **Sprint Notları**: Takım olarak proje yönetiminde "Notion" kullanımı kararlaştırılmıştır.
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Sprint Review**: 
-Alınan kararlar: Roller belirlenmiş ve görevleri açıklanmıştır. Oyunun Platformer türünde geliştirilmesine karar verilmiştir. Mitolojik bir tema çevresinde hikaye oluşturulmasına ve karakterin tanrılardan oluşmasında karar kılınmıştır.
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
 
 - **Daily Scrum**: Daily Scrum toplantılarının Discord ve Whatsapp üzerinden yapılmasına karar verilmiştir. Sprint boyunca her gün ilgili uygulamalarla Daily Scrum yapılmıştır.
 
-- **Sprint Review katılımcıları:** 
-Vedat Erol, Zeynep Kalaycıoğlu, Görkem Gümüşcan, Nilüfer Sultan Canıberk, Ömer Faruk Günay
+
+- **Sprint Review**: 
+Alınan kararlar: Roller belirlenmiş ve görevleri açıklanmıştır. Oyunun Platformer türünde geliştirilmesine karar verilmiştir. Mitolojik bir tema çevresinde hikaye oluşturulmasına ve karakterin tanrılardan oluşmasında karar kılınmıştır. Sprint Review katılımcıları: Vedat Erol, Zeynep Kalaycıoğlu, Nilüfer Sultan Canıberk, Görkem Gümüşcan ve Ömer Faruk Günay.
+
+- **Sprint Retrospective:**
+  - Oyun fikri konusunda olan karışıklıklar giderilmiştir.
+  - Ana karaktere kesin olarak karar verilmiş ve geliştirme aşamasına başlanmıştır.
+  - Takım üyelerinin gelecek sprintlerde daily scrum konusunda dikkatli olmaları vurgulanmıştır.
+ 
 
 
 ## Product Backlog URL
