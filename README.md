@@ -37,11 +37,11 @@
 
 
 - **Sprint Review**: 
-Alınan kararlar: Roller belirlenmiş ve görevleri açıklanmıştır. Oyunun Platformer türünde geliştirilmesine karar verilmiştir. Mitolojik bir tema çevresinde hikaye oluşturulmasına ve karakterin tanrılardan oluşmasında karar kılınmıştır. Sprint Review katılımcıları: Vedat Erol, Zeynep Kalaycıoğlu, Nilüfer Sultan Canıberk, Görkem Gümüşcan ve Ömer Faruk Günay.
+Alınan kararlar: Roller belirlenmiş ve görevleri açıklanmıştır. Oyunun Platformer türünde geliştirilmesine karar verilmiştir. The Celtic mitolojisi çevresinde hikaye oluşturulmasına ve Dagda adlı karakterin odağında olmasına karar verilmiştir. Sprint Review katılımcıları: Vedat Erol, Zeynep Kalaycıoğlu, Nilüfer Sultan Canıberk, Görkem Gümüşcan ve Ömer Faruk Günay.
 
 - **Sprint Retrospective:**
   - Oyun fikri konusunda olan karışıklıklar giderilmiştir.
-  - Ana karaktere kesin olarak karar verilmiş ve geliştirme aşamasına başlanmıştır.
+  - Ana karaktere ve odak karaktere kesin olarak karar verilmiş ve geliştirme aşamasına başlanmıştır.
   - Takım üyelerinin gelecek sprintlerde daily scrum konusunda dikkatli olmaları vurgulanmıştır.
  
 
