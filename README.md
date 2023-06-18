@@ -14,6 +14,7 @@
 
 ## Ürün İsmi
 
+--Guardian of Dagda's Legacy--
 
 ## Ürün Açıklaması
 
