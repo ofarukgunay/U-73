@@ -25,9 +25,13 @@
 
 ## Ürün Özellikleri
 
-- 2D/3D
-- Single/Multi player
-- Mobil/Pc
+- 3D
+- Singleplayer
+- on Pc
+- Adventure
+- Story based
+- Theme: mythology
+- Weapons and Abilities
 
 ## Hedef Kitle
 
