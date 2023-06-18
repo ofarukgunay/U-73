@@ -18,8 +18,10 @@
 
 ## Ürün Açıklaması
 
-**Dagda Kimdir?**
 - Dagda, İrlanda mitolojisinde çeşitli özelliklere sahip bir doğa tanrısı olarak görülür ve bereket, tarım, müzik, büyü ve cömertlik gibi alanlarda etkinlik gösterir. İnsanlara yardım eder, adalet sağlar ve halkın refahını artırmak için çaba sarf eder.
+- Guardian of Dagda's Legacy oyunu, Dagda mitolojisini konu alarak bu yüce kahramanın yolundan giden ve onun gibi bir savaşçı olmak isteyen bir çocuğun macerasını konu almaktadır. Dagda'nın çeşitli özelliklerini oyun boyunca deneyimleyen kullanıcı oyunun sonunda çeşitli güçlere sahip olur.
+- Oyuncu deneyim boyunca çeşitli görevler gerçekleştirirken harita içerisinde özgürce dolaşabilir ve mitolojik dünyayı keşfederken oyunda ilerleme kaydedebilir.
+- Hikaye tabanlı olan Guardian of Dagda's Legacy oyunu ile oyuncu; sakin bir şekilde deneyimini gerçekleştirirken, İrlanda'nın mitolojik dünyasını ve Dagda'yı keşfederek deneyimini tamamlar.
 
 ## Ürün Özellikleri
 
