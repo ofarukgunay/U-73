@@ -18,9 +18,14 @@
 
 ## Ürün Açıklaması
 
+**Dagda Kimdir?**
+- Dagda, İrlanda mitolojisinde çeşitli özelliklere sahip bir doğa tanrısı olarak görülür ve bereket, tarım, müzik, büyü ve cömertlik gibi alanlarda etkinlik gösterir. İnsanlara yardım eder, adalet sağlar ve halkın refahını artırmak için çaba sarf eder.
 
 ## Ürün Özellikleri
 
+- 2D/3D
+- Single/Multi player
+- Mobil/Pc
 
 ## Hedef Kitle
 
