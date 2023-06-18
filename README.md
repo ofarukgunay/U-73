@@ -36,6 +36,8 @@
 
 - **Daily Scrum**: Daily Scrum toplantılarının Discord ve Whatsapp üzerinden yapılmasına karar verilmiştir. Sprint boyunca her gün ilgili uygulamalarla Daily Scrum yapılmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum](https://github.com/ofarukgunay/U-73/tree/main/WhatsApp%20Chat%20-%20U-73)
 
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://cdn.discordapp.com/attachments/1114497042014797874/1120093934702571651/image.png)
 
 - **Sprint Review**: 
 Alınan kararlar: Roller belirlenmiş ve görevleri açıklanmıştır. Oyunun Platformer türünde geliştirilmesine karar verilmiştir. The Celtic mitolojisi çevresinde hikaye oluşturulmasına ve Dagda adlı karakterin odağında olmasına karar verilmiştir. Sprint Review katılımcıları: Vedat Erol, Zeynep Kalaycıoğlu, Nilüfer Sultan Canıberk, Görkem Gümüşcan ve Ömer Faruk Günay.
