@@ -61,6 +61,10 @@ Alınan kararlar: Roller belirlenmiş ve görevleri açıklanmıştır. Oyunun P
   - Oyun fikri konusunda olan karışıklıklar giderilmiştir.
   - Ana karaktere ve odak karaktere kesin olarak karar verilmiş ve geliştirme aşamasına başlanmıştır.
   - Takım üyelerinin gelecek sprintlerde daily scrum konusunda dikkatli olmaları vurgulanmıştır.
+
+- **Sprint Notları:**
+Projenin detaylı ilerlemelerine url kısmından ulaşılabilir. Ürün geliştirme aşamasına geçildiğinde detaylı bir yazım ve resim ekleme yapılacaktır.
+
  
 
 
