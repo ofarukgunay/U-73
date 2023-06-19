@@ -65,4 +65,4 @@ Alınan kararlar: Roller belirlenmiş ve görevleri açıklanmıştır. Oyunun P
 
 
 ## Product Backlog URL
-[Unity Team 73 Notion Backlog Board](https://cdn.discordapp.com/attachments/1114497042014797874/1120104729805066270/image.png)
+[Unity Team 73 Notion Backlog Board](https://www.notion.so/e33478e288ce406ab8409627b729a466?v=241f3d9881e941bdb280371484523a1e&pvs=4) 
