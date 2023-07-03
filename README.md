@@ -81,6 +81,10 @@ Projenin detaylı ilerlemelerine url kısmından ulaşılabilir. Ürün gelişti
 ![Backlog 1](https://cdn.discordapp.com/attachments/1114497042014797874/1125388056791355453/image.png)
 
 
+- **Ürün Durumu**: Ürün link:
+(https://drive.google.com/drive/folders/1Mbi0eSLrnbExKW5k5PNkkybtyC07XBLF?usp=sharing)
+
+
 - **Sprint Review**: 
 Alınan kararlar: Oyun bakış açısına ve hikayenin başlanması gereken kısımlara karar verilmiştir. Programlama kısımlarında gerekli adımlar atılmıştır. Tasarımlar konusunda görevler belirlenmiş ve çalışmalar yapılmıştır. Sprint Review katılımcıları: Vedat Erol, Zeynep Kalaycıoğlu, Nilüfer Sultan Canıberk, Görkem Gümüşcan ve Ömer Faruk Günay.
 
