@@ -70,16 +70,22 @@ Projenin detaylı ilerlemelerine url kısmından ulaşılabilir. Ürün gelişti
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
+
 - **Daily Scrum**: Zamansal sıkıntılar sebebi ile Daily Scrum toplantıları Whatsapp üzerinden yapılmıştır. Sprint boyunca her gün ilgili uygulamalarla Daily Scrum yapılmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum](https://github.com/ofarukgunay/U-73/tree/main/WhatsApp%20Chat%20-%20U-73)
+
+- **Sprint board update**: Sprint board screenshotları:
+![Backlog 1](https://cdn.discordapp.com/attachments/1114497042014797874/1125388056791355453/image.png)
 
 
 - **Sprint Review**: 
 Alınan kararlar: Oyun bakış açısına ve hikayenin başlanması gereken kısımlara karar verilmiştir. Programlama kısımlarında gerekli adımlar atılmıştır. Tasarımlar konusunda görevler belirlenmiş ve çalışmalar yapılmıştır. Sprint Review katılımcıları: Vedat Erol, Zeynep Kalaycıoğlu, Nilüfer Sultan Canıberk, Görkem Gümüşcan ve Ömer Faruk Günay.
 
+
 - **Sprint Retrospective:**
   - Oyun geliştirme kısmında tasarımlar geliştirilmiştir.
   - Takım üyelerinin daha aktif olmaları vurgulanmıştır.
   - Görevlerin detayları belirlenmiştir.
+
 
 ## Product Backlog URL
 [Unity Team 73 Notion Backlog Board](https://www.notion.so/c64da3b5f47f4b048860a4c69e4231f0?v=ce8559a7211644cca25080988ec8f154&pvs=4) 
