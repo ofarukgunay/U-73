@@ -82,7 +82,7 @@ Projenin detaylı ilerlemelerine url kısmından ulaşılabilir. Ürün gelişti
 
 
 - **Ürün Durumu**: Ürün link:
-(https://drive.google.com/drive/folders/1Mbi0eSLrnbExKW5k5PNkkybtyC07XBLF?usp=sharing)
+[Ürün Durumu](https://drive.google.com/drive/folders/1Mbi0eSLrnbExKW5k5PNkkybtyC07XBLF?usp=sharing)
 
 
 - **Sprint Review**: 
