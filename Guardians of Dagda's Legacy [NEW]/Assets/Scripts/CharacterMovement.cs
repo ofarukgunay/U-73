@@ -14,7 +14,6 @@ public class CharacterMovement : MonoBehaviour
     private CharacterController characterController;
     private Vector3 playerVelocity;
     private bool isGrounded;
-
     void Start()
     {
         characterController = GetComponent<CharacterController>();
