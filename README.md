@@ -100,7 +100,7 @@ Alınan kararlar: Oyun bakış açısına ve hikayenin başlanması gereken kıs
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Zamansal sıkıntılar sebebi ile Daily Scrum toplantıları Whatsapp üzerinden yapılmıştır. Sprint boyunca her gün ilgili uygulamalarla Daily Scrum yapılmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum](https://github.com/ofarukgunay/U-73/tree/main/WhatsApp%20Chat%20-%20U-73)
+- **Daily Scrum**: Zamansal sıkıntılar sebebi ile Daily Scrum toplantıları Whatsapp üzerinden yapılmıştır. Sprint boyunca her gün ilgili uygulamalarla Daily Scrum yapılmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum](https://github.com/ofarukgunay/U-73/tree/main/WhatsApp%20Chat%20-%20U-73)
 
 
 - **Sprint board update**: Sprint board screenshotları:
