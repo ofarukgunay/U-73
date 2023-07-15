@@ -104,6 +104,7 @@ Alınan kararlar: Oyun bakış açısına ve hikayenin başlanması gereken kıs
 
 
 - **Sprint board update**: Sprint board screenshotları:
+![Backlog 1].(https://cdn.discordapp.com/attachments/1129892613365969019/1129892755489968178/Ekran_goruntusu_2023-07-16_004553.png)
 
 
 
