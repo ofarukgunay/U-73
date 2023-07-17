@@ -109,6 +109,7 @@ Alınan kararlar: Oyun bakış açısına ve hikayenin başlanması gereken kıs
 
 
 - **Ürün Durumu**: Ürün link:
+[Ürün Durumu](https://drive.google.com/drive/folders/1vfsFCCxV1pfEMTmzTu0G7NBO82sWoj3s?usp=sharing)
 
 
 
