@@ -9,7 +9,7 @@
 - [Zeynep Kalaycıoğlu: Product Owner/Level Design/Developer](https://www.linkedin.com/in/zeynep-kalaycioglu/)
 - [Ömer Faruk Günay: Scrum Master/Level Design](https://www.linkedin.com/in/ofarukgunay/)
 - [Görkem Gümüşcan: Team Member/UI-UX Design](https://www.linkedin.com/in/g%C3%B6rkem-g%C3%BCm%C3%BC%C5%9Fcan/)
-- [Vedat Erol: Team Member/Level Design/Developer](https://www.linkedin.com/in/vedat-erol-eem/)
+- [Vedat Erol: Team Member/Animation/Developer](https://www.linkedin.com/in/vedat-erol-eem/)
 - [Nilüfer Sultan Canıberk: Team Member/3D Model Design/ Level Design/](https://www.linkedin.com/in/nil%C3%BCfer-sultan-can%C4%B1berk-51450b213/)
 
 ## Ürün İsmi
